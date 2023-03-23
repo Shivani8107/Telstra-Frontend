@@ -1,0 +1,9 @@
+
+
+position: absolute;
+width: 124px;
+height: 100px;
+left: 14px;
+top: 2px;
+
+background: url(taboo-client-telstra-black.png);
